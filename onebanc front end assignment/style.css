@@ -1,0 +1,102 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.head{
+  width: 100%;
+  height: 100%;
+  margin-bottom: 5px;
+  /* background: red; */
+  /* text-align: center; */
+}
+.main{
+
+  width: 500px;
+  height: 600px;
+  border: 1px solid black;
+  margin: 0 380px;
+  margin-top: 10px;
+  box-sizing: border-box;
+}
+img{
+  width: 20px;
+}
+ul{
+  padding: 10px;
+  box-sizing: content-box;
+
+}
+li{
+  display: inline-block;
+  list-style: none;
+
+}
+#shortn{
+  background: red;
+  margin-left: 5px;
+  border-radius: 50%;
+  padding: 8px;
+  border: none;
+}
+#detailName{
+  margin-left: 5px;
+  padding: 8px;
+}
+h3{
+  padding:  0 10px;
+  width: 10px;
+
+}
+.box{
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  width: 300px;
+  height: 100px;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
+#paid1{
+  float: left;
+  /* background: red; */
+  width: 50%;
+}
+#paid2{
+  float: right;
+  /* background: green; */
+  width: 50%;
+}
+.paidarr{
+  display: block;
+}
+.img1{
+  float: right;
+  margin-right: 50px;
+}
+.date{
+  float: right;
+}
+.btn{
+  background: none;
+  font-size: 16px;
+  padding: 2px 12px;
+  margin-top: 10px;
+  border-radius: 12px;
+}
+#paids{
+  float: left;
+}
+.box1{
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  width: 350px;
+  height: 100px;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
+.line{
+  display: inline;
+}
